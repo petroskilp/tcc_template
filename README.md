@@ -17,6 +17,7 @@
   - [LYX](https://www.lyx.org/)
 - ### Online Editor
   - [Overleaf](https://www.overleaf.com/)
+    - Download as zip and upload on site
 
 ## 2. Architecture
 - **assets**: Images, algorithms, tables, blocks.
