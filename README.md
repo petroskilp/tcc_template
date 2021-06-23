@@ -11,6 +11,7 @@
 ## 1. Quick Start
 - Install package [Miktex](http://miktex.org/)
 - Latex editor
+  - [VScode](https://code.visualstudio.com/) com [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
   - [TeXstudio](https://www.texstudio.org/)
   - [TexMaker](https://www.xm1math.net/texmaker/)
   - [TexnicCenter](https://www.texniccenter.org/)
